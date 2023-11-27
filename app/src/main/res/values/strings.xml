@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="signup">Register</string>
+    <string name="login">Login</string>
+    <string name="message_welcome_page">A place where you can share and exchange experiences with other users</string>
+    <string name="title_welcome_page">Welcome to Story App!</string>
+    <string name="title_signup_page">Please complete your data below first</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Please enter your data first</string>
+    <string name="title_login_page">Are you ready to share a story?</string>
+    <string name="name">Name</string>
+    <string name="logout">Logout</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="empty_image_warning">Please upload the image file first</string>
+    <string name="logout_accept">yes</string>
+    <string name="logout_denied">no</string>
+    <string name="logout_status_accept">"Your Account is Logout"</string>
+    <string name="logout_status_denied">"Logout cancelled"</string>
+    <string name="logout_confirm">Do you want to Logout ?</string>
+    <string name="custom_input_email">Enter your email</string>
+    <string name="custom_input_password">Enter your password</string>
+    <string name="custom_input_name">Enter your name</string>
+    <string name="language">Language</string>
+
+    <string name="camera_error">Failed to open the camera</string>
+    <string name="camera_take_error">Failed to take a picture</string>
+    <string name="invalid_email">Email address is not valid</string>
+    <string name="invalid_password">Password must be at least 8 characters</string>
+    <string name="complete_data_alert">complete the data first</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="retry">Retry</string>
+    <string name="share_location">Share Location</string>
+</resources>
